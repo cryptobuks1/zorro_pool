@@ -1,0 +1,3 @@
+sudo adduser cardano
+sudo usermod -aG sudo cardano
+sudo su - cardano
